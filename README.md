@@ -8,7 +8,7 @@
 </p>
 
 
-<h4>I am a full-stack software engineer with a passion for creating and improving. I enjoy drinking coffee ☕, playing video games 🎮, and eating delicious food🍣. Before I started coding, I was a 2nd year nursing student. I always envisioned myself becoming a Software Engineer but I just didn't know where to start.</h4>
+<h4>I am a full-stack software engineer who is a self-motivated learner and passionate about building innovative and user-friendly web applications through creative problem-solving and collaboration. I enjoy drinking coffee ☕, playing video games 🎮, and eating delicious food🍣. Before I started coding, I was a 2nd year nursing student. I always envisioned myself becoming a Software Engineer but I just didn't know where to start.</h4>
 
 <h2 align="center">📧 Contact Me</h2>
 <p align="center">
