@@ -8,7 +8,7 @@
 </p>
 
 
-<h4>Aspiring Software Engineer who is a self-motivated learner and passionate about building innovative applications through creative problem-solving and collaboration. I enjoy drinking coffee ☕, playing video games 🎮, and eating delicious food🍣. Before I started coding, I was a 2nd year nursing student and also a Certified Nursing Assistant. I always envisioned myself becoming a Software Engineer but I just didn't know where to start.</h4>
+<h4>Aspiring Software Engineer who is a self-motivated learner and passionate about building innovative applications through creative problem-solving and collaboration. I enjoy drinking coffee ☕, playing video games 🎮, and eating delicious food🍣. Before I started coding, I was a 2nd year nursing student and also a Certified Nurse Assistant. I always envisioned myself becoming a Software Engineer but I just didn't know where to start.</h4>
 
 <h2 align="center">📧 Contact Me</h2>
 <p align="center">
