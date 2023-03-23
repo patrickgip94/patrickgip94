@@ -8,7 +8,11 @@
 </p>
 
 
-<h4>I am an ambitious Software Engineer with a self-driven approach to learning, dedicated to creating innovative applications through a combination of imaginative problem-solving and collaborative effort. My interests include the consumption of coffee ☕, indulging in video games 🎮, and savouring delectable cuisine 🍣. Prior to my foray into coding, I pursued a nursing degree, however, I had always envisioned a career in Software Engineering, and sought out the means to make it a reality.</h4>
+<h4>A highly motivated individual with a passion for software engineering and a commitment to ongoing learning. With a strong aptitude for creative problem-solving and a collaborative mindset, I strive to develop innovative applications that push boundaries and exceed expectations. Beyond my work in technology, I enjoy staying energized through pursuits such as coffee appreciation ☕, video gaming 🎮, and savoring fine cuisine 🍣.
+
+My professional journey has been characterized by perseverance and determination. Prior to my entry into the field of software engineering, I was a second-year nursing student. However, driven by my long-standing vision to become a software engineer, I took the initiative to pursue this path, despite my initial lack of direction. Through focused effort and dedication, I have honed my skills and developed a deep understanding of the software engineering landscape.
+
+In addition to my professional pursuits, I am also a devoted father to a three-year-old daughter. My experience as a parent has helped me to cultivate important qualities such as patience, empathy, and time-management, which are essential in any career.</h4>
 
 <h2 align="center">📧 Contact Me</h2>
 <p align="center">
