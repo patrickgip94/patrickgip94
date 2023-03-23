@@ -10,6 +10,7 @@
 
 <h4>A highly motivated individual with a passion for software engineering and a commitment to ongoing learning. With a strong aptitude for creative problem-solving and a collaborative mindset, I strive to develop innovative applications that push boundaries and exceed expectations. Beyond my work in technology, I enjoy staying energized through pursuits such as coffee appreciation ☕, video gaming 🎮, and savoring fine cuisine 🍣.</h4>
 
+
 <h4>My professional journey has been characterized by perseverance and determination. Prior to my entry into the field of software engineering, I was a second-year nursing student. However, driven by my long-standing vision to become a software engineer, I took the initiative to pursue this path, despite my initial lack of direction. Through focused effort and dedication, I have honed my skills and developed a deep understanding of the software engineering landscape.</h4>
 
 <h4>In addition to my professional pursuits, I am also a devoted father to a three-year-old daughter. My experience as a parent has helped me to cultivate important qualities such as patience, empathy, and time-management, which are essential in any career.</h4>
