@@ -8,7 +8,7 @@
 </p>
 
 
-<h4>Aspiring Software Engineer who is a self-motivated learner and passionate about building innovative applications through creative problem-solving and collaboration. I enjoy drinking coffee ☕, playing video games 🎮, and eating delicious food🍣. Before I started coding, I was a 2nd year nursing student. I always envisioned myself becoming a Software Engineer but I just didn't know where to start.</h4>
+<h4>I am an ambitious Software Engineer with a self-driven approach to learning, dedicated to creating innovative applications through a combination of imaginative problem-solving and collaborative effort. My interests include the consumption of coffee ☕, indulging in video games 🎮, and savouring delectable cuisine 🍣. Prior to my foray into coding, I pursued a nursing degree, however, I had always envisioned a career in Software Engineering, and sought out the means to make it a reality.</h4>
 
 <h2 align="center">📧 Contact Me</h2>
 <p align="center">
