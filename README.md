@@ -7,7 +7,10 @@
   </p>
 </p>
 
+<p align="center">
 [LIVE PORTFOLIO](https://patrickgip94.vercel.app/)
+</p>
+
 
 
 <h4>A highly motivated individual with a passion for software engineering and a commitment to ongoing learning. With a strong aptitude for creative problem-solving and a collaborative mindset, I strive to develop innovative applications that push boundaries and exceed expectations. Beyond my work in technology, I enjoy staying energized through pursuits such as coffee appreciation ☕, video gaming 🎮, and savoring fine cuisine 🍣.</h4>
