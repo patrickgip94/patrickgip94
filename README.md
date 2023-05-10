@@ -16,7 +16,7 @@
 
 <h4>In addition to my professional pursuits, I am also a devoted father to a three-year-old daughter. My experience as a parent has helped me to cultivate important qualities such as patience, empathy, and time-management, which are essential in any career.</h4>
 
-[Portfolio link](https://patrickgip94.vercel.app)
+[Portfolio link](https://gippatrick94.vercel.app/)
 
 <h2 align="center">📧 Contact Me</h2>
 <p align="center">
